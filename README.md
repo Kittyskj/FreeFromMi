@@ -18,7 +18,7 @@ Many of Xiaomi's pre-installed system apps and services constantly communicate w
 
 Even when using third-party apps, Xiaomi collects data about the apps you install and how you interact with them. This data is then transmitted to Xiaomi's servers without your knowledge or consent.
 
-### Anonymized Examples of Xiaomi's Data Requests
+### Examples of Xiaomi's Data Requests
 
 To illustrate the extent of Xiaomi's data collection, here are some anonymized examples of the requests sent by Xiaomi's apps and services:
 
