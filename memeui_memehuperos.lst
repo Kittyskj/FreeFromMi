@@ -464,7 +464,14 @@
 127.0.0.1 zhaopin.ad.xiaomi.com
 127.0.0.1 zx.game.xiaomi.com
 127.0.0.1 zx.game.xiaomi.comstat.xiaomi.com
-
 # Xioami server framework
 127.0.0.1 118.26.252.226 
 127.0.0.1 118.26.252.225
+# Theme market
+127.0.0.1 47.74.226.114
+# Other dog shit
+127.0.0.1 trading.assistant.miui.com
+127.0.0.1 xpa.assistant.miui.com
+127.0.0.1 store.assistant.miui.com
+127.0.0.1 api-middle.transfer.sec.miui.com
+127.0.0.1 api.transfer.search.miui.com
