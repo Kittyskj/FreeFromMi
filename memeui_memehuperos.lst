@@ -469,9 +469,16 @@
 127.0.0.1 118.26.252.225
 # Theme market
 127.0.0.1 47.74.226.114
+# App market mi
+127.0.0.1 203.107.1.34
 # Other dog shit
 127.0.0.1 trading.assistant.miui.com
 127.0.0.1 xpa.assistant.miui.com
 127.0.0.1 store.assistant.miui.com
 127.0.0.1 api-middle.transfer.sec.miui.com
 127.0.0.1 api.transfer.search.miui.com
+127.0.0.1 centertime.ksyun.com
+127.0.0.1 cdn.exp.xioami.com
+127.0.0.1 sf0.market.xioami.com
+127.0.0.1 api.kingsdata.ksyum.com
+127.0.0.1 udpateinfo.market.xioami.com
