@@ -1,2 +1,2 @@
-# miui-suck
-stop all miui shit tracking your phone and block all miui
+# Xiaomi = dog shit
+- Stop all miui shit tracking your phone and block all xioami
