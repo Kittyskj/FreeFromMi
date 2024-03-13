@@ -6,6 +6,48 @@ This project aims to block all Xiaomi (Mi) hosts and services, effectively disab
 
 Xiaomi has faced criticism for its aggressive data collection practices and alleged privacy violations. This project enables users to regain control over their privacy by preventing their devices from communicating with Xiaomi's servers and services.
 
+## How Xiaomi Steals Your Data
+
+Xiaomi's MIUI operating system is known for its aggressive data collection practices, which often happen without the user's explicit consent or knowledge. Here's how Xiaomi collects and transmits your data:
+
+### Tracking Through System Apps and Services
+
+Many of Xiaomi's pre-installed system apps and services constantly communicate with Xiaomi's servers, sending various pieces of data about your device and usage patterns. These requests often include sensitive information such as your IMEI (device identifier), carrier details, region, and application versions.
+
+### Data Collection During App Installation and Usage
+
+Even when using third-party apps, Xiaomi collects data about the apps you install and how you interact with them. This data is then transmitted to Xiaomi's servers without your knowledge or consent.
+
+### Anonymized Examples of Xiaomi's Data Requests
+
+To illustrate the extent of Xiaomi's data collection, here are some anonymized examples of the requests sent by Xiaomi's apps and services:
+
+**Example 1:**
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Dalvik/2.1.0 (Linux; U; ANDROID_VERSION; DEVICE_MODEL Build/BUILD_NUMBER)
+Host: api.sec.miui.com
+Connection: close
+Accept-Encoding: gzip, deflate, br
+Content-Length: 250
+
+appVersion=XXXXXXXX&carrier=XXXXX&device=XXXXX&miuiVersion=XXXXX&param=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&region=XX&versionType=XXXXX&sign=XXXXXXXX
+Param base64 encoded string = {"imei":"md5hashed","dataVersion":0,"isDiff":false}
+
+**Example 2:**
+POST https://sdkconfig.ad.xiaomi.com/api/v4/detail/config\_common/ HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Dalvik/2.1.0 (Linux; U; ANDROID_VERSION; DEVICE_MODEL Build/BUILD_NUMBER)
+Host: sdkconfig.ad.xiaomi.com
+Connection: close
+Accept-Encoding: gzip, deflate, br
+Content-Length: 154
+
+ii=X&oa=&ob=X&sv=X.X.X&re=XX&av=XX&appVer=XX.X.X.XXXXXXX&ov=XXXXX&platform=Android&ml=XXXXXXXX&sign=XXXXXXXXXXXXXXXXXXXXXXXX
+
+re = region
+ml = phone model
+ov = xioami phone os
+
 ## Features
 
 - Comprehensive list of Xiaomi hosts to block
