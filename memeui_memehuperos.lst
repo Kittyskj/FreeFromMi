@@ -464,3 +464,7 @@
 127.0.0.1 zhaopin.ad.xiaomi.com
 127.0.0.1 zx.game.xiaomi.com
 127.0.0.1 zx.game.xiaomi.comstat.xiaomi.com
+
+# Xioami server framework
+127.0.0.1 118.26.252.226 
+127.0.0.1 118.26.252.225
