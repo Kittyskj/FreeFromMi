@@ -20,7 +20,7 @@ Even when using third-party apps, Xiaomi collects data about the apps you instal
 
 ### Examples of Xiaomi's Data Requests
 
-To illustrate the extent of Xiaomi's data collection, here are some anonymized examples of the requests sent by Xiaomi's apps and services:
+To illustrate the extent of Xiaomi's data collection, here are some examples of the requests sent by Xiaomi's apps and services:
 
 **Example 1:**
 Content-Type: application/x-www-form-urlencoded
