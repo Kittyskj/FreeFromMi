@@ -6,6 +6,14 @@ This project aims to block all Xiaomi (Mi) hosts and services, effectively disab
 
 Xiaomi has faced criticism for its aggressive data collection practices and alleged privacy violations. This project enables users to regain control over their privacy by preventing their devices from communicating with Xiaomi's servers and services.
 
+## Xiaomi's Remote Feature Control Through Device Tracking
+
+Xiaomi's MIUI/HyperOS operating system gathers extensive telemetry data about devices, including hardware specifications, component information, and usage patterns. This data is then used by Xiaomi to remotely enable, disable, or modify features on specific devices or groups of devices based on their tracking information.
+
+By analyzing the telemetry data collected from your device, Xiaomi can determine its hardware capabilities and performance characteristics. The company then uses this information to selectively enable or disable certain features, ostensibly to optimize the user experience or ensure compatibility. However, this level of remote control raises significant privacy and security concerns.
+
+Xiaomi can potentially disable features or functionalities on devices without the user's knowledge or consent, effectively limiting the capabilities of devices that users have paid for. In some cases, Xiaomi may choose to disable features on certain devices based on their tracking data, creating artificial segmentation within their product lineup. This could be done to encourage users to upgrade to newer models or to limit the capabilities of devices in specific regions or markets.
+
 ## How Xiaomi Steals Your Data
 
 Xiaomi's MIUI operating system is known for its aggressive data collection practices, which often happen without the user's explicit consent or knowledge. Here's how Xiaomi collects and transmits your data:
