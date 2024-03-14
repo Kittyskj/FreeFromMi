@@ -1,37 +1,25 @@
-# MIUI Installation Check
 127.0.0.1 api.installer.xiaomi.com
-# OneTrack & Analytics & Ad
 127.0.0.1 tracking.miui.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 diagnosis.ad.xiaomi.com
 127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 m.track.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
-# Xiao Ai Classmate
 127.0.0.1 tracker.ai.xiaomi.com
-# Seems to be Xiaomi's own engine still in internal testing
 127.0.0.1 mazu.sec.miui.com
-# avl
 127.0.0.1 miui-fxcse.avlyun.com
 127.0.0.1 sdkconf.avlyun.com
 127.0.0.1 miav-cse.avlyun.com
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 ixav-cse.avlyun.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
-# Traffic update, virus whitelist
 127.0.0.1 api.sec.miui.com
 127.0.0.1 virus-engine.sec.miui.com
-#api
 127.0.0.1 api.transfer.sec.miui.com
-# Unable to enable some permissions after disabling
-#127.0.0.1 srv.sec.miui.com
-# Cloud control permissions seems to be for some models only
+127.0.0.1 srv.sec.miui.com
 127.0.0.1 auth.be.sec.miui.com
-# Anti-fraud
 127.0.0.1 flash.sec.miui.com
-# Quick Apps
 127.0.0.1 api.hybrid.xiaomi.com
-# Browser hotspot slide down etc
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 api.browser.miui.com
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
@@ -41,20 +29,14 @@
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 c3-cache.browser.miui.com
 127.0.0.1 api-ipv4.browser.miui.com
-# System app check update e.g. download manager
 127.0.0.1 api.developer.xiaomi.com
-# Unable to load icons in Phone Manager app after disabling
-#127.0.0.1 keybag.id.mi.com
-# Cloud control
+127.0.0.1 keybag.id.mi.com
 127.0.0.1 qsb.browser.miui.srv
 127.0.0.1 rom.pt.miui.srv
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 jupiter.sys.miui.com
 127.0.0.1 metok.sys.miui.com
 127.0.0.1 find.api.micloud.xiaomi.net
-# Other system app garbage sdks
-# QQ scan bugly reader quick app apis etc
-# May affect some functions
 127.0.0.1 tmfsdk.m.qq.com
 127.0.0.1 tmfsdk4.m.qq.com
 127.0.0.1 tbm.snssdk.com
@@ -101,7 +83,6 @@
 127.0.0.1 t03-api.xlmc.xunlei.com
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 guid-xldw-ssl.n0808.com
-# unknown
 127.0.0.1 data.sec.miui.com
 127.0.0.1 10-awsind.bigdata.pub.neo.xiaomi.com
 127.0.0.1 11-c3.bigdata.ctc.neo.xiaomi.com
@@ -464,16 +445,12 @@
 127.0.0.1 zhaopin.ad.xiaomi.com
 127.0.0.1 zx.game.xiaomi.com
 127.0.0.1 zx.game.xiaomi.comstat.xiaomi.com
-# Xioami server framework
 127.0.0.1 118.26.252.226 
 127.0.0.1 118.26.252.225
 127.0.0.1 111.13.142.153
 127.0.0.1 111.202.1.252
-# Theme market
 127.0.0.1 47.74.226.114
-# App market mi
 127.0.0.1 203.107.1.34
-# Other dog shit
 127.0.0.1 trading.assistant.miui.com
 127.0.0.1 xpa.assistant.miui.com
 127.0.0.1 store.assistant.miui.com
@@ -484,3 +461,63 @@
 127.0.0.1 sf0.market.xioami.com
 127.0.0.1 api.kingsdata.ksyum.com
 127.0.0.1 udpateinfo.market.xioami.com
+127.0.0.1 203.107.1.66
+127.0.0.1 miwifi.com
+127.0.0.1 config-p2p-other.vcloud.ks-live.com
+127.0.0.1 api.kingdata.ksyun.com
+127.0.0.1 cdn.exp.xiaomi.com
+127.0.0.1 mcc.inf.miui.com
+127.0.0.1 account.xiaomi.com
+127.0.0.1 us.galleryapi.micloud.xiaomi.net
+127.0.0.1 avatar-ai.sec.miui.com
+127.0.0.1 api.xmpush.xiaomi.com
+127.0.0.1 internal.engine.mi.com
+127.0.0.1 i.mi.com
+127.0.0.1 wtradv.market.xiaomi.com
+127.0.0.1 api-alpha.vip.miui.com
+127.0.0.1 124.251.101.39
+127.0.0.1 i.ai.mi.com
+127.0.0.1 accessxmd.speech.ai.xiaomi.com
+127.0.0.1 cloudcontrol.ai.xiaomi.com
+127.0.0.1 sentry.d.xiaomi.net
+127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
+127.0.0.1 i1.douguo.com
+127.0.0.1 resolver.mi.xiaomi.com
+127.0.0.1 grayconfig.ai.xiaomi.com
+127.0.0.1 zhuti.xiaomi.com
+127.0.0.1 8.219.246.161
+127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
+127.0.0.1 ssl-cdn.static.browser.mi-img.com
+127.0.0.1 apm.inf.miui.com
+127.0.0.1 ts.market.mi-img.com
+127.0.0.1 183.84.7.177
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.mistat.rus.xiaomi.com
+127.0.0.1 data.mistat.india.xiaomi.com
+127.0.0.1 aivision.aiasst.xiaomi.com
+127.0.0.1 miscanner.api.xiaomi.net
+127.0.0.1 203.107.1.66
+127.0.0.1 mcc.inf.miui.com
+127.0.0.1 netroam.mihome.xiaomi.net
+127.0.0.1 port.sec.miui.com
+127.0.0.1 apph.wpsmail.net
+127.0.0.1 dw-online.ksosoft.com
+127.0.0.1 116.181.3.214
+127.0.0.1 shuc-android.ksord.com
+127.0.0.1 124.236.26.162
+127.0.0.1 api.jr.mi.com
+127.0.0.1 sgpac.account.xiaomi.com
+127.0.0.1 risk.dun.mi.com
+127.0.0.1 api.pay.xiaomi.com
+127.0.0.1 data.help.jr.mi.com
+127.0.0.1 act.account.xiaomi.com
+127.0.0.1 a0.app.xiaomi.com
+127.0.0.1 m.v.wali.com
+127.0.0.1 s0.irs03.com
+127.0.0.1 img.cdn.mvideo.xiaomi.com
+127.0.0.1 config-p2p-other.vcloud.ks-live.com
+127.0.0.1 de.home.mi.com
+127.0.0.1 de.api.io.mi.com
+127.0.0.1 api.io.mi.com
+127.0.0.1 de.core.api.io.mi.com
+127.0.0.1 124.251.101.39
