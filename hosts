@@ -545,3 +545,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.info.market.xioami.com
 0.0.0.0 avatar-ai.engine.mi.com
 0.0.0.0 router.tracking.miui.com
+0.0.0.0 slb-p2p.vcloud.ks-live.com
+0.0.0.0 package.wallpaper.cdn.pandora.xiaomi.com
+0.0.0.0 api.account.xiaomi.com
