@@ -698,3 +698,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 vip.api.xmpush.xiaomi.com
 0.0.0.0 www.xiaomi.com
 0.0.0.0 xlmc.sec.miui.com
+0.0.0.0 cdnorg.d.miui.com
+0.0.0.0 ultimateota.d.miui.com
+0.0.0.0 bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com
+0.0.0.0 cdn-ota.azureedge.net
+0.0.0.0 bn.d.miui.com
+0.0.0.0 bigota.d.miui.com
