@@ -1,0 +1,6 @@
+id=freefrommi-hosts
+name=FreeFromMi Host
+version=1.0
+versionCode=1.0
+author=Kitty
+description=This project aims to block all Xiaomi (Mi) hosts and services, effectively disabling the tracking and data collection features found in Xiaomi's MIUI operating system. It provides a comprehensive list of hosts to block, along with instructions for various platforms and methods.
