@@ -1,6 +1,6 @@
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
+0.0.0.0 localhost
+0.0.0.0 localhost.localdomain
+0.0.0.0 local
 255.255.255.255 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
@@ -946,3 +946,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 14.18.175.81
 0.0.0.0 etl-xlmc-ssl.sandai.net
 0.0.0.0 106.120.178.6
+0.0.0.0 mis.migc.xiaomi.comfile.m
