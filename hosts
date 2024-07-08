@@ -933,3 +933,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssp.xiaomi.com
 0.0.0.0 orig.sec-cdn.static.xiaomi.net
 0.0.0.0 p.www.xiaomi.com
+0.0.0.0 preview-jupiter.sys.miui.com
+0.0.0.0 api.huangye.miui.com
+0.0.0.0 global.api.huangye.miui.com
+0.0.0.0 www.sina.com.cn
+0.0.0.0 wcc-ml-test10.bj
+0.0.0.0 cn.nubia.identity
+0.0.0.0 10.38.162.35
+0.0.0.0 111.202.1.250
+0.0.0.0 123.125.102.213
+0.0.0.0 10.237.14.141
