@@ -1321,7 +1321,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 trust.mi.com
 0.0.0.0 c.mi.com
-0.0.0.0 Subdomain
 0.0.0.0 10046.mi.com
 0.0.0.0 a.huodong.mi.com
 0.0.0.0 access.b.iot.mi.com
