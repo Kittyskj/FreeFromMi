@@ -2841,3 +2841,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 1mi.g.mi.com
 0.0.0.0 cp.mi.com
 0.0.0.0 privacy.wps.cn
+0.0.0.0 109.107.164.147
+0.0.0.0 auth.dui.ai
+0.0.0.0 nlp.xiaomixiaoai.com
+0.0.0.0 grayconfig.xiaomixiaoai.com
+0.0.0.0 log.aispeech.com
+0.0.0.0 query-suggestion.xiaomixiaoai.com
+0.0.0.0 account.xiaomixiaoai.com
+0.0.0.0 cdn.alsgp0.fds.api.mi-img.com
+0.0.0.0 tracker.xiaomixiaoai.com
+0.0.0.0 speech.xiaomixiaoai.com
