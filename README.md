@@ -30,7 +30,7 @@ Blocking Xiaomi services through the host file of a project might not be entirel
 
 Even when using third-party apps, Xiaomi collects data about the apps you install and how you interact with them. This data is then transmitted to Xiaomi's servers without your knowledge or consent.
 
-### Examples of Xiaomi's Data Requests
+### Examples of Xiaomi's Data Requests and tracking
 
 To illustrate the extent of Xiaomi's data collection, here are some examples of the requests sent by Xiaomi's apps and services:
 
@@ -60,12 +60,57 @@ re = region
 ml = phone model
 ov = xioami phone os
 
+
+### AI Features and Photo Processing
+AI features, especially in the "Gallery" app, are particularly concerning:
+
+AI Expansion and AI Erase modes send photos to remote servers for processing.
+
+Despite the alleged download of a local AI module (about 800 MB), the processing takes place in the cloud.
+
+There is evidence of censorship of certain content (e.g., photos of Chinese politicians or "inappropriately" dressed individuals).
+
+This raises questions not only about privacy but also about potential censorship and content control. Research shows that photos and videos may be analyzed for "inappropriate" content, violating principles of privacy and freedom of expression.
+
+
+
+- While trying to delete Xi Jinping from photo with Pro mode erase and ((Ai feature))
+
+{
+  "code": 0,.
+  "result": "ok",
+  "retriable": false,
+  "description": "success",
+  "data": {
+    "appId": "ai_extend_image",
+    "reviewId": "hashed_id".
+    "timestamp data_format.
+    "secret": "md5",.
+    "offlineReason": "Politics Involved",      Reason why xioami blocked your photo editing with pro mode
+    "offlineDetail": "",.
+    "resultCode": -1,.
+    "subCode": 22,.
+    "tips": [
+      ""
+    ]
+  },
+  "ts": data_format
+}
+
 ## Features
 
 - Comprehensive list of Xiaomi hosts to block
 - Support for various platforms (e.g., Windows, Linux, Android)
 - Instructions for different blocking methods (hosts file, firewall rules, DNS filtering)
 - Regular updates to keep up with new Xiaomi hosts and services
+
+### Debloating in module
+
+This debloat list has been tested, and removing these apps does not affect system stability because these apps track you and steal your data. I want to warn you that by installing the module, you delete these apps, and to restore them, you'll need to download their APKs from the internet again. However, I strongly advise against doing so as it puts your security at risk.
+- com.miui.analytics
+- com.miui.systemAdSolution
+- com.xiaomi.security.onetrack
+- com.android.adservices.api
 
 ## Installation
 
@@ -86,8 +131,9 @@ For detailed instructions and alternative methods (e.g., using a firewall or DNS
 1. Set up a custom DNS server like Pi-hole, AdGuard Home, or use a third-party app like AdGuard.
 2. If using Pi-hole or AdGuard Home, configure your Android device to use the custom DNS server's IP address.
 3. If using the AdGuard app, follow the app's instructions to set it up as a local VPN on your device.
-4. In your DNS server or AdGuard app, add custom filtering rules to block the Xiaomi hosts. You can find a comprehensive list of hosts in the `android` directory of this repository.
+4. In your DNS server or AdGuard app, add custom filtering rules to block the Xiaomi hosts. You can find a comprehensive list of hosts in the hosts file.
 5. Optionally, you can use the AdGuard app's custom rules feature to add the Xiaomi host blocking rules directly within the app.
+6. If you have Magisk/KSU/Apatch just download the latest release module from the releases tab on GitHub and enjoy your experience. Be aware that there is no auto-update system yet, so with each new module release, you'll need to download the release again. We'll fix this in the future.
 
 ## Contributing
 
