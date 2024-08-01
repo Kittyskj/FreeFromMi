@@ -111,6 +111,60 @@ This debloat list has been tested, and removing these apps does not affect syste
 - com.miui.systemAdSolution
 - com.xiaomi.security.onetrack
 - com.android.adservices.api
+- com.miui.msa.global in next release
+- com.miui.msa.global in next release
+
+## Manual for disabling ads and tracking in apps
+
+Turning Off Personalized Ads
+You can disable personalized ads for system apps (e.g., Themes, Weather, Calendar) by going to:
+Settings > Passwords & Security > Privacy > Ad Services
+Disabling personalized ads means you'll still see the same number of ads, but they won’t be based on your personal data.
+
+System Apps:
+- Installer
+- Weather
+- Security
+- Wallpaper Carousel
+- Notification Shade
+- Downloads
+- Calendar
+- Themes
+- Mi AI
+- Global Search
+- App Vault
+- Keyboards
+- Messaging
+- Xiaomi Cloud
+
+For non-system apps (e.g., Mi Video, Browser, GetApps), you can turn off personalized ads within each app’s settings. For example, in GetApps:
+GetApps > Account > Settings > Privacy > Personalized Services
+
+Non-System Apps:
+- Browser
+- Mi Video
+- Content Center
+- Reader
+- GetApps
+- Mi Community
+- Music
+- Games
+- FM Radio
+- Mi Live
+
+### New Security Center Version 9.2.6: Virtual ID Update
+
+In the new version of the Security Center starting from 9.2.6, there is an updated Virtual ID feature. It is recommended to disable this feature for all apps and completely turn it off for the system. Additionally, you should reset the Virtual ID and disable "Manage App Tracking" to stop tracking.
+
+**How to Find and Adjust These Settings**  
+1. Go to **Settings**.
+2. Look for **Privacy and Security**.
+3. Find the section related to **Virtual ID** and disable it for all apps.
+4. Ensure the Virtual ID is completely turned off for the system.
+5. Reset the Virtual ID.
+6. Disable **Manage App Tracking** to stop tracking.
+
+This will help protect your privacy and prevent unwanted tracking.
 
 ## Installation
 
