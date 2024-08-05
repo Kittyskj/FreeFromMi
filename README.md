@@ -165,6 +165,10 @@ In the new version of the Security Center starting from 9.2.6, there is an updat
 
 This will help protect your privacy and prevent unwanted tracking.
 
+## Why Disabling Ads and Tracking is soo Hard in (MIUI/HyperOS)
+
+The difficulty lies not only in having separate buttons in each app instead of a single switch but also in Xiaomi's apparent reluctance to allow users to easily disable ads and tracking. According to their new statement (05.08.2024): "We do not plan to add a switch, which essentially will be found and used by only a small number of users." This means users must navigate a cumbersome process in system settings and individual apps. Xiaomi's vague reasons prove they don't want users to escape their ad and tracking data hooks, keeping them in the dark as long as possible.
+
 ## Installation
 
 ### Windows
