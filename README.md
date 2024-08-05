@@ -111,7 +111,7 @@ This debloat list has been tested, and removing these apps does not affect syste
 - com.miui.systemAdSolution
 - com.xiaomi.security.onetrack
 - com.android.adservices.api
-- com.miui.msa.global in next release
+- com.miui.msa.global
 
 ## Manual for disabling ads and tracking in apps
 
