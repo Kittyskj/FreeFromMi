@@ -3391,3 +3391,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 t7.market.xiaomi.com
 0.0.0.0 ai.engine.miui.com
 0.0.0.0 client.sms.miui.com
+0.0.0.0 220.181.106.152
+0.0.0.0 sdkconfig.xiaomi.com
+0.0.0.0 220.181.106.151
