@@ -1,6 +1,6 @@
 # Xiaomi Host Blocker
 
-This project aims to block all Xiaomi (Mi) hosts and services, effectively disabling the tracking and data collection features found in Xiaomi's MIUI operating system. It provides a comprehensive list of hosts to block, along with instructions for various platforms and methods.
+This project aims to block all Xiaomi (Mi) hosts and services, effectively disabling the tracking and data collection features found in Xiaomi's MIUI/HyperOS operating system. It provides a comprehensive list of hosts to block, along with instructions for various platforms and methods.
 
 ## Motivation
 
@@ -16,7 +16,7 @@ Xiaomi can potentially disable features or functionalities on devices without th
 
 ## How Xiaomi Steals Your Data
 
-Xiaomi's MIUI operating system is known for its aggressive data collection practices, which often happen without the user's explicit consent or knowledge. Here's how Xiaomi collects and transmits your data:
+Xiaomi's MIUI/HyperOS operating system is known for its aggressive data collection practices, which often happen without the user's explicit consent or knowledge. Here's how Xiaomi collects and transmits your data:
 
 ### Tracking Through System Apps and Services
 
