@@ -22,6 +22,8 @@ Xiaomi's MIUI/HyperOS operating system is known for its aggressive data collecti
 
 Many of Xiaomi's pre-installed system apps and services constantly communicate with Xiaomi's servers, sending various pieces of data about your device and usage patterns. These requests often include sensitive information such as your IMEI (device identifier), carrier details, region, and application versions.
 
+![video_2024-12-20_15-28-33 (1)](https://github.com/user-attachments/assets/e1907bc1-5e90-4803-a197-f94f13195b59)
+
 ### Aditional info about (Tracking Through System Apps and Services)
 
 Blocking Xiaomi services through the host file of a project might not be entirely effective because applications like GetApps and other Chinese apps can bypass this block and still connect to their servers. Therefore, to ensure these applications do not connect to their servers, you need to remove them using ADB (Android Debug Bridge). Another option is to install a clean version of Android, which has fewer pre-installed applications to remove. However, you will still need to perform some cleaning to ensure all unwanted apps are removed.
