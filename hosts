@@ -3421,3 +3421,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 api-aicall.xiaoaiassist.com
 0.0.0.0 43.141.59.212
 0.0.0.0 43.135.106.82
+0.0.0.0 api-installer.pt.xiaomi.com
+0.0.0.0 preview-api.installer.xiaomi.com
+0.0.0.0 test-api-installer.pt.xiaomi.com
+0.0.0.0 milink.ac.mi.com
+0.0.0.0 connect-milink.g.mi.com
+0.0.0.0 embed.sec.miui.com
+0.0.0.0 staging.sdkconfig.ad.xiaomi.srv
+0.0.0.0 log.avlyun.sec.intl.miui.com
