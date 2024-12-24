@@ -3431,3 +3431,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 203.107.1.67
 0.0.0.0 203.107.1.97
+0.0.0.0 httpdns-sc.aliyuncs.com
+0.0.0.0 110.43.105.194
