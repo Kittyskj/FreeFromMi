@@ -1,4 +1,4 @@
-# Xiaomi / MIUI — Ad & Tracking Hosts (Curated List)
+# Xiaomi / MIUI — Ad & Tracking Hosts
 
 **Purpose:** Compact, grouped list of domains related to advertising, tracking, analytics, telemetry, crash reporting, A/B tests and related services. Each entry includes a short, factual note about typical data involved and risk tags.
 
