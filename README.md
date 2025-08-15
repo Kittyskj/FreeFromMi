@@ -100,7 +100,7 @@ This raises questions not only about privacy but also about potential censorship
 }
 
 ## Features
-
+For a detailed breakdown of Xiaomi ad, tracking, and analytics domains, see the [Xiaomi_ata.md](Xiaomi_ata.md) file.
 - Comprehensive list of Xiaomi hosts to block
 - Support for various platforms (e.g., Windows, Linux, Android)
 - Instructions for different blocking methods (hosts file, firewall rules, DNS filtering)
