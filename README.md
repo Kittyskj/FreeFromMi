@@ -117,9 +117,15 @@ This debloat list has been tested, and removing these apps does not affect syste
 
 ## Manual for disabling ads and tracking in apps
 
-Turning Off Personalized Ads
+### Specific Instructions for CN ROMs
+If you are using a Chinese (CN) ROM (tested on devices like Xiaomi Pad 7 Pro and Turbo 4 Pro), the option to disable system ads is located in a different menu. To disable it:
+1. Go to **Settings** -> **Account** -> **About Xiaomi Account**.
+2. Find and disable **Ads in system apps**.
+
+
+### Turning Off Personalized Ads (Global/Standard ROMs)
 You can disable personalized ads for system apps (e.g., Themes, Weather, Calendar) by going to:
-Settings > Passwords & Security > Privacy > Ad Services
+**Settings > Passwords & Security > Privacy > Ad Services**
 Disabling personalized ads means you'll still see the same number of ads, but they won’t be based on your personal data.
 
 System Apps:
@@ -139,7 +145,7 @@ System Apps:
 - Xiaomi Cloud
 
 For non-system apps (e.g., Mi Video, Browser, GetApps), you can turn off personalized ads within each app’s settings. For example, in GetApps:
-GetApps > Account > Settings > Privacy > Personalized Services
+**GetApps > Account > Settings > Privacy > Personalized Services**
 
 Non-System Apps:
 - Browser
@@ -157,9 +163,8 @@ Non-System Apps:
 
 In the new version of the Security Center starting from 9.2.6, there is an updated Virtual ID feature. It is recommended to disable this feature for all apps and completely turn it off for the system. Additionally, you should reset the Virtual ID and disable "Manage App Tracking" to stop tracking.
 
-**How to Find and Adjust These Settings**  
-1. Go to **Settings**.
-2. Look for **Privacy and Security**.
+**How to Find and Adjust These Settings** 1. Go to **Settings**.
+2. Look for **Passwords & Security** -> **Privacy**.
 3. Find the section related to **Virtual ID** and disable it for all apps.
 4. Ensure the Virtual ID is completely turned off for the system.
 5. Reset the Virtual ID.
